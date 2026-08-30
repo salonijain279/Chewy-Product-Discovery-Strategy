@@ -1,6 +1,6 @@
-# Chewy Match: Product Discovery Case Study
+# Chewy Match: Reducing Product Discovery Friction
 
-A product-discovery case study exploring how a pet-commerce platform could reduce choice overload with transparent, pet-specific guidance.
+A customer-research and product-strategy case study exploring how transparent, pet-specific guidance could reduce choice overload in online shopping.
 
 ## Problem
 
