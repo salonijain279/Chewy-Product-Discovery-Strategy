@@ -1,14 +1,14 @@
 # Chewy Match: Reducing Product Discovery Friction
 
-A customer-research and product-strategy case study exploring how transparent, pet-specific guidance could reduce choice overload in online shopping.
+I worked with a student team on this customer-research and product-strategy case to explore how transparent, pet-specific guidance could reduce choice overload in online shopping. My work focused on moving from interview evidence to customer needs, concept criteria, measurement ideas, and responsible-product guardrails.
 
 ## Problem
 
 Large online catalogs give customers breadth but can make a high-stakes purchase harder. Pet owners managing health conditions, first-time owners, and shoppers who distrust opaque recommendations need different forms of support.
 
-## Research approach
+## How I approached the work
 
-The student team conducted 15 needs-finding interviews across active users, non-users, experienced pet owners, first-time owners, and an expert lens. The work moved from evidence to concepts:
+Our team conducted 15 needs-finding interviews across active users, non-users, experienced pet owners, first-time owners, and an expert lens. I used the synthesis to move from evidence to concepts:
 
 1. synthesize recurring pain points;
 2. write customer-centered need statements;
@@ -24,7 +24,7 @@ The student team conducted 15 needs-finding interviews across active users, non-
 
 ## Proposed concept
 
-**Chewy Match** is a guided discovery layer that combines a pet profile, explainable filters, and a concise product shortlist. It is a product concept—not a clinical recommendation system—and would require veterinary, privacy, accessibility, and experimentation review before launch.
+The concept I helped develop, **Chewy Match**, is a guided discovery layer that combines a pet profile, explainable filters, and a concise product shortlist. I treat it as a product concept—not a clinical recommendation system—and would require veterinary, privacy, accessibility, and experimentation review before launch.
 
 ## Repository contents
 
@@ -35,7 +35,7 @@ The student team conducted 15 needs-finding interviews across active users, non-
 
 ## Data and team privacy
 
-This public case study contains only aggregated, deidentified findings. Interview notes, survey responses, recordings, names, contact information, course instructions, and teammate working files are intentionally excluded.
+I included only aggregated, deidentified findings in this public case study. I excluded interview notes, survey responses, recordings, names, contact information, course instructions, and teammate working files.
 
 ## Methods
 
