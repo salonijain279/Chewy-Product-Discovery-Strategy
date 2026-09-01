@@ -1,6 +1,6 @@
 # Chewy Match: Reducing Product Discovery Friction
 
-I worked with a student team on this customer-research and product-strategy case to explore how transparent, pet-specific guidance could reduce choice overload in online shopping. My work focused on moving from interview evidence to customer needs, concept criteria, measurement ideas, and responsible-product guardrails.
+This customer-research and product-strategy case examines how transparent, pet-specific guidance could reduce choice overload in online shopping. My contribution focused on translating interview evidence into customer needs, concept criteria, measurement ideas, and responsible-product guardrails.
 
 ## Problem
 
@@ -35,7 +35,7 @@ The concept I helped develop, **Chewy Match**, is a guided discovery layer that 
 
 ## Data and team privacy
 
-I included only aggregated, deidentified findings in this public case study. I excluded interview notes, survey responses, recordings, names, contact information, course instructions, and teammate working files.
+This repository contains only aggregated, deidentified findings. Interview notes, survey responses, recordings, names, contact information, and private team working files are excluded.
 
 ## Methods
 
