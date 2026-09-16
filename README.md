@@ -1,30 +1,55 @@
 # Chewy Match: Reducing Product Discovery Friction
 
-This customer-research and product-strategy case examines how transparent, pet-specific guidance could reduce choice overload in online shopping. My contribution focused on translating interview evidence into customer needs, concept criteria, measurement ideas, and responsible-product guardrails.
+> MGMT 6100 Product Development, Carlson School of Management · Team: George, Wenyu, Lili, Saloni Jain
+> My role: designed and ran both primary-research surveys, synthesized all 15 interviews/responses into the need statements and concept scorecard below.
 
-## Problem
+A product-development sprint on Chewy.com: find out what's actually broken about buying pet
+supplies online, then design and score a concept to fix it — using real primary research, not
+assumptions.
 
-Large online catalogs give customers breadth but can make a high-stakes purchase harder. Pet owners managing health conditions, first-time owners, and shoppers who distrust opaque recommendations need different forms of support.
+## Research base
 
-## How I approached the work
+**15 total touchpoints**: 9 live interviews (6 pet owners interviewed by George, 2 by Wenyu, 1 by
+Lili) plus 6 survey responses (5 from a pet-shopping-experience survey I designed and ran, 1 from
+a veterinary-sciences-student survey I also ran).
 
-Our team conducted 15 needs-finding interviews across active users, non-users, experienced pet owners, first-time owners, and an expert lens. I used the synthesis to move from evidence to concepts:
+## What we found — 8 real gaps, not assumed ones
 
-1. synthesize recurring pain points;
-2. write customer-centered need statements;
-3. develop multiple solution directions;
-4. score concepts on evidence, customer value, trust, and feasibility;
-5. define assumptions and experiments before implementation.
+| Gap | Evidence |
+|---|---|
+| **No pet profile engine** — every session starts from zero | *"It's more just a search engine rather than algorithm based."* |
+| **No vet-linked health records** — owners manually cross-reference diagnoses to products | *"I wish it was like Epic where anywhere with the system can access your pet's health and recent diagnosis from the vet."* |
+| **No peer-matched reviews** — can't filter reviews by pet age/breed/condition | *"I want reviews from other owners with similar pets — not official marketing fluff."* |
+| **No first-time-owner onboarding** — no starter kit or guided flow | *"So many options when I first got my cat."* |
+| **No nutritional filtering** — can't filter by protein, AAFCO grain-free status, life stage | *"I compare fat and protein content depending on what my cat needs — I search on Xiaohongshu or Google."* |
+| **Opaque recommendations** — "you might also like" reads as ads, not guidance | *"Distrust comes from black-box recommendations — feeling like ads rather than helpful suggestions."* |
+| **Autoship doesn't adapt** — breaks on prescriptions, multi-pet households, travel | *"I often forget when the next shipment is coming."* |
+| **No "what does my pet need now" tool** — no bridge from a life event (new diagnosis, aging) to a shopping list | — |
 
-## Core themes
+## From evidence to need statements
 
-- **Decision fatigue:** customers struggle to narrow a large catalog to products suitable for a specific pet.
-- **Trust and transparency:** recommendations are more credible when the reasoning and inputs are visible.
-- **New-owner guidance:** customers without an established shopping framework need a simpler starting point.
+Mapped all 15 participants against 5 candidate needs (Y = need expressed) to prioritize, not just
+list, what to solve for:
 
-## Proposed concept
+| Need | Expressed by |
+|---|---|
+| Intelligent curation (cut hundreds of options to a relevant shortlist) | **8 / 10** |
+| Health & vet integration | **6 / 10** |
+| Pet-matched review access | **5 / 10** |
+| Transparent, explainable AI | **4 / 10** |
+| New-owner guided onboarding | **3 / 10** |
 
-The concept I helped develop, **Chewy Match**, is a guided discovery layer that combines a pet profile, explainable filters, and a concise product shortlist. I treat it as a product concept—not a clinical recommendation system—and would require veterinary, privacy, accessibility, and experimentation review before launch.
+Curation was the need almost everyone expressed, whether or not they were already Chewy users —
+that's why it's the core of the concept below, not the AI/trust angle that gets more attention in
+pitches.
+
+## The concept: Chewy Match
+
+A guided-discovery layer combining a persistent pet profile, explainable filters (not a black-box
+recommender), and a short, reasoned product shortlist — scored against 4 alternative concepts on
+evidence strength, customer value, trust & safety, feasibility, and testability (`docs/concept-scorecard.csv`).
+Treated as a concept, not a launch-ready system: would need veterinary, privacy, accessibility, and
+experimentation review before shipping.
 
 ## Repository contents
 
@@ -33,10 +58,13 @@ The concept I helped develop, **Chewy Match**, is a guided discovery layer that 
 - [Measurement plan](docs/measurement-plan.md)
 - [Responsible product guardrails](docs/responsible-product-guardrails.md)
 
-## Data and team privacy
+## Data & privacy note
 
-This repository contains only aggregated, deidentified findings. Interview notes, survey responses, recordings, names, contact information, and private team working files are excluded.
+Interview subjects and survey respondents are described by pet/situation, not named, to protect
+their privacy — quotes above are verbatim, attribution is anonymized. Raw survey files (which
+include first names) are not included in this public repo.
 
 ## Methods
 
-Customer discovery · interview synthesis · segmentation · concept evaluation · product analytics · responsible AI
+Customer discovery interviews · survey design · VOC synthesis · need-statement writing ·
+weighted concept scoring · responsible-product review
