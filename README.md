@@ -7,6 +7,16 @@ A product-development sprint on Chewy.com: find out what's actually broken about
 supplies online, then design and score a concept to fix it — using real primary research, not
 assumptions.
 
+## Process
+
+```mermaid
+flowchart LR
+    A[15 interviews & surveys] --> B[8 gaps with quote evidence]
+    B --> C[Need statements: % expressing each]
+    C --> D[Concept scorecard: 5 concepts]
+    D --> E[Chewy Match]
+```
+
 ## Research base
 
 **15 total touchpoints**: 9 live interviews (6 pet owners interviewed by George, 2 by Wenyu, 1 by
