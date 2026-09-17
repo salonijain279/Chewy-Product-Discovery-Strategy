@@ -1,7 +1,7 @@
 # Chewy Match: Reducing Product Discovery Friction
 
 > MGMT 6100 Product Development, Carlson School of Management · Team: George, Wenyu, Lili, Saloni Jain
-> My role: designed and ran both primary-research surveys, synthesized all 15 interviews/responses into the need statements and concept scorecard below.
+> Saloni Jain's role: designed and ran both primary-research surveys, synthesized all 15 interviews/responses into the need statements and concept scorecard below.
 
 A product-development sprint on Chewy.com: find out what's actually broken about buying pet
 supplies online, then design and score a concept to fix it — using real primary research, not
@@ -10,8 +10,8 @@ assumptions.
 ## Research base
 
 **15 total touchpoints**: 9 live interviews (6 pet owners interviewed by George, 2 by Wenyu, 1 by
-Lili) plus 6 survey responses (5 from a pet-shopping-experience survey I designed and ran, 1 from
-a veterinary-sciences-student survey I also ran).
+Lili) plus 6 survey responses (5 from a pet-shopping-experience survey, 1 from
+a veterinary-sciences-student survey — both designed and run by Saloni Jain).
 
 ## What we found — 8 real gaps, not assumed ones
 
